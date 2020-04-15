@@ -1,1 +1,2 @@
-# CMPE-255-Spring19-Google-Landmark-Recognition
+# Google_landmark_recognition
+Google's landmark recognition problem from kaggle
